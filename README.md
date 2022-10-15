@@ -1,1 +1,1 @@
-# Java101-Projeler-www.patika.dev
+# Java101-Alistirmalar-www.patika.dev
