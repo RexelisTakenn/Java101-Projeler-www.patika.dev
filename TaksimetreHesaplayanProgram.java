@@ -9,7 +9,7 @@ public class TaksimetreHesaplayanProgram {
         System.out.print("Mesafeyi KM cinsinden yazınız = ");
         int km = input.nextInt();
 
-        double tutar = (km*2.20);//Mesafe başına 2.20 TL ödenecektir.
+        double tutar = (km*2.20);//KM başına 2.20 TL ödenecektir.
         tutar += acilisUcret;
 
         if(tutar <= 20){
