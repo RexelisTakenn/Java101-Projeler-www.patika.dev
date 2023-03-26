@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class YildizlarİleUcgenYapanProgram {
+public class YildizlarİleElmasYapanProgram {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
